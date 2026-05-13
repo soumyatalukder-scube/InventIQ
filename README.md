@@ -1,11 +1,23 @@
+# InventIQ
 
-  # Industrial Dashboard UI Design
+Industrial inventory dashboard for ABC, FSN, VED analysis, demand forecasting, and inventory optimization.
 
-  This is a code bundle for Industrial Dashboard UI Design. The original project is available at https://www.figma.com/design/xmPEnoZ1hfACoED61tRlPz/Industrial-Dashboard-UI-Design.
+## Running the code
 
-  ## Running the code
+Install dependencies:
 
-  Run `npm i` to install the dependencies.
+```bash
+npm install
+```
 
-  Run `npm run dev` to start the development server.
-  
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Create a production build:
+
+```bash
+npm run build
+```
