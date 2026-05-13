@@ -1,0 +1,31 @@
+export const palette = {
+  page: "#081421",
+  panel: "#0d1b2d",
+  panelSoft: "#12233a",
+  surface: "#0a1628",
+  border: "#22344d",
+  borderSubtle: "#16283d",
+  text: "#e5edf6",
+  textMuted: "#9aa9bb",
+  textSoft: "#66788f",
+  primary: "#7aa7e8",
+  primaryStrong: "#4f8de5",
+  primarySoft: "rgba(122,167,232,0.14)",
+  success: "#58c7b2",
+  successSoft: "rgba(88,199,178,0.14)",
+  warning: "#d6a94c",
+  warningSoft: "rgba(214,169,76,0.14)",
+  danger: "#e26d6d",
+  dangerSoft: "rgba(226,109,109,0.14)",
+  neutral: "#8d99a8",
+  neutralSoft: "rgba(141,153,168,0.14)",
+};
+
+export const chartPalette = {
+  primary: palette.primary,
+  primaryAlt: "#9bb8df",
+  success: palette.success,
+  warning: palette.warning,
+  danger: palette.danger,
+  neutral: palette.neutral,
+};
